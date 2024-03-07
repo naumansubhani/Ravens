@@ -12,10 +12,7 @@
 
   <ItemGroup>
     <Folder Include="Models\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="wwwroot\resources\images\avatar.jpg" />
+    <Folder Include="wwwroot\resources\images\" />
   </ItemGroup>
 
 </Project>
